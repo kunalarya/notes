@@ -1,7 +1,8 @@
 ---
+tags: [quantum-computing]
 title: Global Phase
 created: '2020-12-18T20:41:09.225Z'
-modified: '2020-12-18T20:41:27.542Z'
+modified: '2020-12-18T21:45:44.871Z'
 ---
 
 # Global Phase

@@ -1,7 +1,8 @@
 ---
+tags: [quantum-computing]
 title: Rotation Gates
 created: '2020-12-18T18:58:01.800Z'
-modified: '2020-12-18T19:18:10.907Z'
+modified: '2020-12-18T21:45:44.896Z'
 ---
 
 # Rotation Gates
