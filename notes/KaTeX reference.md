@@ -30,8 +30,36 @@ $$
 e^{iπ} + 1 = 0
 ```
 
+## Bra-ket
+
+$$
+\left\langle 0 \middle| 1 \right\rangle
+$$
+
+---
+$$
+\big| {0} \rangle
+$$
+
+$$
+\langle {0} \big|
+$$
+
+---
+$$
+\big| {\psi} \rangle
+$$
+
+$$
+\langle {\psi} \big|
+$$
+
+
 # Separator
---- ***
+```
+---
+***
+```
 
 # Emojis
 
