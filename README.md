@@ -1,1 +1,1 @@
-Various notes, managed with [notable][https://notable.app].
+Various notes, managed with [notable](https://notable.app).
