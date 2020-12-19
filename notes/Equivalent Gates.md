@@ -1,7 +1,7 @@
 ---
 title: Equivalent Gates
 created: '2020-12-18T21:45:11.152Z'
-modified: '2020-12-18T21:46:08.243Z'
+modified: '2020-12-18T23:56:10.038Z'
 ---
 
 # Equivalent Gates
@@ -21,7 +21,7 @@ $$
 ZZ = I
 $$
 
-That is, if you rotate about an axis $\frac{\pi}{2}$ (or $180\degree$) twice, you will end up where you started.
+That is, if you rotate about an axis $\pi$ (or $180\degree$) twice, you will end up where you started.
 
 ## Hadamard
 
@@ -35,7 +35,7 @@ $$
 \end{bmatrix}
 $$
 
-It is equivalent to a $Y^{\frac{1}{2}}$ rotation (i.e. a $\frac{\pi}{4}$, or $90\degree$, rotation about the Y axis) followed by a full $\frac{\pi}{2}$, or $180\degree$, rotation about the X axis.
+It is equivalent to a $Y^{\frac{1}{2}}$ rotation (i.e. a $\frac{\pi}{2}$, or $90\degree$, rotation about the Y axis) followed by a full $\pi$, or $180\degree$, rotation about the X axis.
 
 We'll show equivalence here.
 
@@ -89,7 +89,7 @@ Which we can see is exactly the Hadamard gate.
 
 Note that the same is *not* true if we switch the order of the gates.
 
-For the other order, first we'll define $Y^{-\frac{1}{2}}$. This computed by evaluating $R_Y(\frac{3\pi}{4})$. Note that $\sin(\frac{3\pi}{4})=\frac{1}{\sqrt2}$ and $\cos(\frac{3\pi}{4})=-\frac{1}{\sqrt2}$
+For the other order, first we'll define $Y^{-\frac{1}{2}}$. This computed by evaluating $R_Y(\frac{3\pi}{2})$. Recall that $R_Y$ uses $\sin(\frac{\theta}{2})$ & $\cos(\frac{\theta}{2})$, and that $\sin(\frac{3\pi}{4})=\frac{1}{\sqrt2}$ and $\cos(\frac{3\pi}{4})=-\frac{1}{\sqrt2}$
 
 $$
 Y^{-\frac{1}{2}}
@@ -129,7 +129,7 @@ Y^{-\frac{1}{2}}X
 \end{aligned}
 $$
 
-But, we know that global phase is not measurable, so we can assume that the negative sign is the same as a $\pi$ global phase:
+But, we know that global phase is not measurable, so we can assume that the negative sign is the same as a $2\pi$ global phase:
 
 
 $$
