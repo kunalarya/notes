@@ -2,7 +2,7 @@
 tags: [meta]
 title: '[Meta] Notable/KaTeX reference'
 created: '2020-12-18T19:07:49.377Z'
-modified: '2020-12-18T21:45:31.223Z'
+modified: '2021-03-28T20:15:27.597Z'
 ---
 
 # [Meta] Notable/KaTeX reference
@@ -87,4 +87,11 @@ $$
 # Emojis
 
 :smile: :+1:
+
+# Tables
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | 
 
