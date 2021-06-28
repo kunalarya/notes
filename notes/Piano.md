@@ -1,7 +1,7 @@
 ---
 title: Music Theory/Piano
 created: '2021-02-14T01:34:15.876Z'
-modified: '2021-03-28T20:23:16.573Z'
+modified: '2021-04-03T20:01:03.397Z'
 ---
 
 # Music Theory/Piano
@@ -26,5 +26,9 @@ modified: '2021-03-28T20:23:16.573Z'
 | Full Dim 7 | o7, dim7 | dim triad + dim 7th, aka dim7 |
 | Maj Sixth Chords | 6, M6 | major triad + major 6th |
 | Min Sixth Chords | mi6, -6 | minor triad + major 6th |
+
+## Voicing
+
+* Root, 3rd, 7th for the chord often useful, spaced out
 
 

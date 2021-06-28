@@ -2,7 +2,7 @@
 tags: [quantum-computing]
 title: Rotation Gates
 created: '2020-12-18T18:58:01.800Z'
-modified: '2020-12-18T21:45:44.896Z'
+modified: '2021-06-27T23:56:42.275Z'
 ---
 
 # Rotation Gates
@@ -163,6 +163,7 @@ R_Z(-\frac{\pi}{2})
 $$
 
 To get:
+$$
 R_Z(\frac{-\pi}{2})
 =\frac{1}{\sqrt2}
 \begin{bmatrix}
